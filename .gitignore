@@ -1,0 +1,7 @@
+# Files the program creates when it runs
+loan_log.txt
+registry.txt
+loan_log.txt.bak
+
+__pycache__/
+*.pyc
